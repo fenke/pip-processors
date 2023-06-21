@@ -4,7 +4,6 @@
 import typing
 import inspect
 import logging
-import pandas as pd
 
 syslog = logging.getLogger(__name__)
 
